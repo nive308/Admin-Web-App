@@ -9,6 +9,6 @@ For redux I used Redux,redux-thunk,react-redux.
 Mongodb connection from backend and  frontend.
 
 
-For run the frontend npm start
-For run the backend nodemon index.js
-For run the mongodb server mongod
+For run the frontend npm start.
+For run the backend nodemon index.js .
+For run the mongodb server mongod.
