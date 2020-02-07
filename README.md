@@ -7,3 +7,8 @@ Packages for Backend  I used Express,Mongoose,validator.
 For user authentication I used jsonwebtoken,bcryptjs.
 For redux I used Redux,redux-thunk,react-redux.
 Mongodb connection from backend and  frontend.
+
+
+For run the frontend npm start
+For run the backend nodemon index.js
+For run the mongodb server mongod
